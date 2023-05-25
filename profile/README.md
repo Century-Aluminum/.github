@@ -6,7 +6,7 @@ We are a global metals and mining company founded in 1995, focused on bauxite, a
 
 ## Contributions :no_pedestrians:
 
-While we completely respect and love open-source software, we are a closed source company. If you really want to contribute to our codebase you can check to see if we have any openings at our [Careers Site](https://centuryaluminum.com/careers/job-offerings/default.aspx)!
+While we completely respect and love open-source software, we are a closed source company. We create a lot of specialized internal software that meets the needs of our industry and more importantly our users. If you really want to contribute to our codebase you can check to see if we have any openings at our [Careers Site](https://centuryaluminum.com/careers/job-offerings/default.aspx)!
 
 <!--
 
